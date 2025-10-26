@@ -1,1 +1,1 @@
-export const API_BASE_URL = "https://create-your-own-story.onrender.com";
+export const API_BASE_URL = "https://create-your-own-story.onrender.com/api";
